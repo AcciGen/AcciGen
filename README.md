@@ -1,7 +1,6 @@
 # 💫 About Me:
 What's up AcciGen?
 
----
 [![](https://visitcount.itsvg.in/api?id=AcciGen&icon=6&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
