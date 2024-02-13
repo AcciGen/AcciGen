@@ -18,7 +18,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### GitHub Contributions
-![snake svg](https://github.com/AcciGen/AcciGen/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AcciGen/AcciGen/blob/output/github-contribution-grid-snake.svg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AcciGen&limit=5&theme=radical&combine_all_yearly_contributions=true)
