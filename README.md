@@ -1,6 +1,5 @@
-<h2 align="left">Hi, there!👋 My name is Nuriddin and I'm a .Net Developer, from Uzbekistan.</h2>
-
-###
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi,+there!💥;+My+name+is+Nuriddin⚡;I'm+.Net+Developer🔥+">
+</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AcciGen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -10,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE2dDdkbzlicnpiNmx0dGhpbXhtbHM3YmQ3c25saTF0MjEyNHI5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TmOpUpxHEtW7ZtdvUc/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU5MndwMHp2OGU3YWlrNm95bTZjaG9jdHdiZGhpcTZzem5yZmpvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y5pJPmh9IWMKc/giphy.gif"  />
 
 ###
 
