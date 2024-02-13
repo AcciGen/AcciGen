@@ -1,5 +1,4 @@
-# 💫 About Me:
-What's up AcciGen?
+# 💫 What's up AcciGen?
 
 [![](https://visitcount.itsvg.in/api?id=AcciGen&icon=6&color=3)](https://visitcount.itsvg.in)
 
@@ -15,7 +14,7 @@ What's up AcciGen?
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AcciGen&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### GitHub Contributions
@@ -24,5 +23,5 @@ What's up AcciGen?
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AcciGen&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
