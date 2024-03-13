@@ -51,13 +51,12 @@
   </a>
 </div>
 
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ###
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/AcciGen/AcciGen/output/snake.svg" alt="Snake animation" />
-###
 
 ### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
