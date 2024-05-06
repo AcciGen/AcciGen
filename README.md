@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+there!💥;+My+name+is+Nuriddin;and+I'm+.Net+Developer!+">
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi,+there!💥;+My+name+is+Nuriddin;and+I'm+.Net+Developer!+">
 </h3>
 
 <div align="center">
@@ -8,11 +8,9 @@
 </div>
 
 ###
-
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU5MndwMHp2OGU3YWlrNm95bTZjaG9jdHdiZGhpcTZzem5yZmpvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y5pJPmh9IWMKc/giphy.gif"  />
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
   <img width="12" />
@@ -54,6 +52,3 @@
 ###
 <br clear="both">
 <img src="https://raw.githubusercontent.com/AcciGen/AcciGen/output/snake.svg" alt="Snake animation" />
-
-### 😂 Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
