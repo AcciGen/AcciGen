@@ -6,7 +6,6 @@ public class AcciGen
     public string Name { get; set; }
     public int Age { get; set; }
     public string Subject { get; set; }
-    
     public AcciGen()
     {
         this.Name = "Nuriddin";
