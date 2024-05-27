@@ -1,19 +1,6 @@
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi,+there!💥;+My+name+is+Nuriddin;and+I'm+.Net+Developer!+">
 </h3>
 
-public class AcciGen
-{
-    public string Name { get; set; }
-    public int Age { get; set; }
-    public string Subject { get; set; }
-    public AcciGen()
-    {
-        this.Name = "Nuriddin";
-        this.Age = 18;
-        this.Subject = "Programming"
-    }
-}
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AcciGen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=AcciGen&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
