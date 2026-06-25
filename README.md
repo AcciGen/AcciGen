@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=90&duration=1400&lines=Hi,+there!💥;+My+name+is+Nuriddin;and+I'm+QA+Engineer!+">
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=90&duration=1500&lines=Hi,+there!💥;+My+name+is+Nuriddin;and+I'm+QA+Engineer!+">
 </h3>
 
 <div data-importer="stats" align="center">
@@ -48,6 +48,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
 </div>
+
 ###
 <div align="left">
   <a href="nuriddin.asrorov.dev@gmail.com" target="_blank">
